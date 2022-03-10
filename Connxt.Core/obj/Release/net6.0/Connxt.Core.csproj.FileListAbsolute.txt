@@ -1,0 +1,12 @@
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\bin\Release\net6.0\Connxt.Core.deps.json
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\bin\Release\net6.0\Connxt.Core.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\bin\Release\net6.0\Connxt.Core.pdb
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.csproj.AssemblyReference.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.AssemblyInfoInputs.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.AssemblyInfo.cs
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.csproj.CoreCompileInputs.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\refint\Connxt.Core.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\Connxt.Core.pdb
+D:\STUDY\ConnxtPaymentMVP\Connxt.Core\obj\Release\net6.0\ref\Connxt.Core.dll

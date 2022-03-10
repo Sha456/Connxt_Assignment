@@ -1,0 +1,12 @@
+<h4>Validate Credit Card</h4>
+<form [formGroup]="ValdiateCreditCardForm">
+    <div>
+        <input type="number" id="cardnumber" class="form-control form-control-lg" placeholder="card number" name="cardnumber" formControlName="cardnumber" />
+        <button type="button" class="btn btn-lg active  btn-primary" (click)="ValidateCardNumber($event)">Validate</button>
+    </div>
+
+</form>
+
+<div *ngIf="successResponse">
+    {{printCreditCardValidationResponse.cardName}} . {{printCreditCardValidationResponse.cardNumber}} . {{printCreditCardValidationResponse.validationStatus}}
+</div>

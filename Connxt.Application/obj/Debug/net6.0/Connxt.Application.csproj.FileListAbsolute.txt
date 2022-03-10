@@ -1,0 +1,15 @@
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\bin\Debug\net6.0\Connxt.Application.deps.json
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\bin\Debug\net6.0\Connxt.Application.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\bin\Debug\net6.0\Connxt.Application.pdb
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\bin\Debug\net6.0\Connxt.Core.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\bin\Debug\net6.0\Connxt.Core.pdb
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.csproj.AssemblyReference.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.AssemblyInfoInputs.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.AssemblyInfo.cs
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.csproj.CoreCompileInputs.cache
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.csproj.CopyComplete
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\refint\Connxt.Application.dll
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\Connxt.Application.pdb
+D:\STUDY\ConnxtPaymentMVP\Connxt.Application\obj\Debug\net6.0\ref\Connxt.Application.dll
